@@ -1,0 +1,10 @@
+Name: Ahmed Shahriar Pnumber: P2719390 Email: ahmedshahriar12@gmail.com Date: 2023-05-04 Course: Computer Science
+Selected_Module_code: CTEC3451 Selected_Module_name: Development Project Selected_module_credit: 30 Selected_Module_Mandatory: true Selected_Module_Delivery: YEAR_LONG
+Selected_Module_code: IMAT3104 Selected_Module_name: Database Management and Programming Selected_module_credit: 15 Selected_Module_Mandatory: false Selected_Module_Delivery: TERM_2
+Selected_Module_code: IMAT3423 Selected_Module_name: Systems Building: Methods Selected_module_credit: 15 Selected_Module_Mandatory: true Selected_Module_Delivery: TERM_1
+Selected_Module_code: IMAT3428 Selected_Module_name: Information Technology Services Practice Selected_module_credit: 15 Selected_Module_Mandatory: false Selected_Module_Delivery: TERM_2
+Selected_Module_code: IMAT3611 Selected_Module_name: Computer Ethics and Privacy Selected_module_credit: 15 Selected_Module_Mandatory: false Selected_Module_Delivery: TERM_1
+Selected_Module_code: IMAT3613 Selected_Module_name: Data Mining Selected_module_credit: 15 Selected_Module_Mandatory: false Selected_Module_Delivery: TERM_1
+Selected_Module_code: IMAT3614 Selected_Module_name: Big Data and Business Models Selected_module_credit: 15 Selected_Module_Mandatory: false Selected_Module_Delivery: TERM_2
+Reserved_Module_code: CTEC3410 Reserved_Module_name: Web Application Penetration Testing Reserved_module_credit: 15 Reserved_Module_Mandatory: false Reserved_Module_Delivery: TERM_2
+Reserved_Module_code: CTEC3902 Reserved_Module_name: Rigorous Systems Reserved_module_credit: 15 Reserved_Module_Mandatory: false Reserved_Module_Delivery: TERM_2
